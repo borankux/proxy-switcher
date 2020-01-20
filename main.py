@@ -1,7 +1,6 @@
 import re
 import sys
 import subprocess as sb
-import commands
 
 
 
